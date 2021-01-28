@@ -16,7 +16,7 @@
     components: {
       Slider1,
       Slider2,
-      Slider3
+      Slider3,
     }
   }
 </script>
